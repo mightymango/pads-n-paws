@@ -1,0 +1,32 @@
+title:             Article
+icon:              newspaper-o
+pages:             false
+files:             true
+fields:
+    title:
+      label:       Title
+      type:        title
+    coverimage:
+      label:       Cover Image
+      type:        image
+      width:       1/2
+    date:
+      label:       Date
+      type:        date
+      format:      LL
+      placeholder: Select a date…
+      default:     today
+      required:    true
+      width:       1/2
+      icon:        calendar
+    text:
+      label:       Text
+      type:        markdown
+    categories:
+      label:       Categories
+      type:        tags
+      width:       1/2
+    tags:
+      label:       Tags
+      type:        tags
+      width:       1/2

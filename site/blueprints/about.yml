@@ -1,0 +1,42 @@
+title:               About
+icon:                user-circle-o
+pages:               true
+files:               true
+
+fields:
+    tab1:
+      label:         About
+      type:          tabs
+      icon:          user-circle-o
+    title:
+      label:         Page Title
+      type:          text
+      width:         1/2
+    menu_title:
+      label:         Menu Title
+      type:          text
+      placeholder:   changes the Menu Title
+      help:          Optional
+      icon:          bars
+      width:         1/2
+    about_title:
+      label:         Cover Title
+      type:          text
+      width:         1/3
+    about_subtitle:
+      label:         Cover Subtitle
+      type:          text
+      width:         2/3
+    cover_img:
+      label:         Cover Image
+      type:          selector
+      mode:          single
+      filter:        cover
+    about_title2:
+      label:         Body Title
+      type:          text
+      width:         1/3
+    about_subtitle2:
+      label:         Body Subtitle
+      type:          text
+      width:         2/3

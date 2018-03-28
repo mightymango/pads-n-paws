@@ -1,0 +1,21 @@
+Title: Contact
+
+----
+
+Menu-title: 
+
+----
+
+Contact-title: Get In Touch
+
+----
+
+Contact-subtitle: Drop us a message!
+
+----
+
+Youremail: your@email.com
+
+----
+
+Emailsubject: NEW Message

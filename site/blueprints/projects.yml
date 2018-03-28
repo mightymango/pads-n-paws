@@ -1,0 +1,28 @@
+title:           Projects
+icon:            list-alt
+pages:
+  template:      project
+files:           false
+options:
+  template:      false
+  status:        false
+  url:           false
+fields:
+  tab1:
+    label:       Projects
+    type:        tabs
+    icon:        list-alt
+  title:
+    label:       Page Title
+    type:        text
+    width:       1/2
+  menu_title:
+    label:       Menu Title
+    type:        text
+    placeholder: changes the Menu Title
+    help:        Optional
+    icon:        bars
+    width:       1/2
+  text:
+    label:       Text
+    type:        textarea

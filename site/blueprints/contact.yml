@@ -1,0 +1,39 @@
+title:                 Contact
+icon:                  envelope-open-o
+pages:                 false
+files:                 false
+fields:
+    tab1:
+      label:           Contact
+      type:            tabs
+      icon:            envelope-open-o
+    title:
+      label:           Page Title
+      type:            title
+      width:           1/2
+    menu_title:
+      label:           Menu Title
+      type:            text
+      placeholder:     changes the Menu Title
+      help:            Optional
+      icon:            bars
+      width:           1/2
+    contact_title:
+      label:           Title
+      type:            text
+      width:           1/2
+    contact_subtitle:
+      label:           Subtitle
+      type:            text
+      width:           1/2
+    youremail:
+      label:           Your email
+      type:            email
+      help:            "If you want to use the built-in <a href="http://formspree.io">formspree.io</a> form, enter your email address."
+      width:           1/2
+    emailsubject:
+      label:           Email subject
+      type:            text
+      help:            This is the subject of the email you will receive
+      icon:            font
+      width:           1/2

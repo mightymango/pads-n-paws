@@ -1,0 +1,53 @@
+Title: Home
+
+----
+
+Menu-title: 
+
+----
+
+Cover-title: Dog walking, Cat sitting and Dog Boarding
+
+----
+
+Cover-subtitle: A professional service in Essex
+
+----
+
+Cover-img: matt-jones-67226-unsplash.jpg
+
+----
+
+Showcase-title: Services
+
+----
+
+Showcase-enable: true
+
+----
+
+Showcase-subtitle: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s
+
+----
+
+Imageblock-title: Lorem Ipsum
+
+----
+
+Imageblock-enable: true
+
+----
+
+Imageblock-text: 
+
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+
+It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+
+----
+
+Imageblock-img: ryan-walton-367436-unsplash.jpg
+
+----
+
+Cover-button: Our Services

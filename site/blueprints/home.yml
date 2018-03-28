@@ -1,0 +1,84 @@
+title:                  Home
+icon:                   home
+pages:                  false
+files:                  true
+fields:
+
+    tab1:
+      label:            Home
+      type:             tabs
+      icon:             cog
+    title:
+      label:            Page Title
+      type:             text
+      width:            1/2
+      required:         true
+    menu_title:
+      label:            Menu Title
+      type:             text
+      placeholder:      changes the Menu Title
+      help:             Optional
+      icon:             bars
+      width:            1/2
+    cover_title:
+      label:            Cover Title
+      type:             text
+      width:            1/3
+      help:             You can use Fontawesome Icons like above.
+    cover_subtitle:
+      label:            Cover Subtitle
+      type:             text
+      width:            1/3
+    cover_button:
+      label:            Cover Button
+      type:             text
+      width:            1/3
+    cover_img:
+      label:            Cover Image
+      type:             selector
+      mode:             single
+
+    tab3:
+      label:            Showcase
+      type:             tabs
+      icon:             image
+    showcase_title:
+      label:            Title
+      type:             text
+      width:            1/2
+    showcase_enable:
+      label:            enabled/disabled
+      type:             switch
+      texts:
+                        - enabled
+                        - disabled
+      width:            1/2
+      required:         true
+    showcase_subtitle:
+      label:            Subtitle
+      type:             text
+      width:            1/2
+
+    tab6:
+      label:            Imageblock
+      type:             tabs
+      icon:             list-alt
+    imageblock_title:
+      label:            Title
+      type:             text
+      width:            1/2
+    imageblock_enable:
+      label:            enabled/disabled
+      type:             switch
+      texts:
+                        - enabled
+                        - disabled
+      width:            1/2
+      required:         true
+    imageblock_text:
+      label:            Text
+      type:             markdown
+    imageblock_img:
+      label:            Image
+      type:             selector
+      mode:             single

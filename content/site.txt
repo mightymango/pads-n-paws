@@ -1,0 +1,70 @@
+Title: Pads ’n Paws
+
+----
+
+Author: MightyMango
+
+----
+
+Description: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+
+----
+
+Copyright: © (date: Year) Pads ’n Paws
+
+----
+
+Menu-btn: 
+
+- 
+  title: Login
+  url: '#'
+  design: primary
+- 
+  title: Register
+  url: '#'
+  design: outlined
+
+----
+
+Email: simon@mightymango.ltd
+
+----
+
+Favicon: favicon.png
+
+----
+
+Address: 
+
+----
+
+Tags: dogs,essex,walking,Training
+
+----
+
+Facebook: http://facebook.com
+
+----
+
+Twitter: http://twitter.com
+
+----
+
+Instagram: http://instagram.com/padsnpaws
+
+----
+
+Tumblr: 
+
+----
+
+Bgcolor: #4267b2
+
+----
+
+Logo: logo-light.svg
+
+----
+
+Logoinverse: logo.svg

@@ -1,0 +1,33 @@
+title:          Project
+icon:           list-alt
+pages:          false
+files:
+    sortable:   true
+fields:
+    title:
+      label:    Title
+      type:     text
+      width:    3/4
+    date:
+      label:    Date
+      type:     date
+      width:    1/4
+    client:
+      label:    Client
+      type:     text
+      width:    1/2
+      icon:     user
+    website:
+      label:    Website
+      type:     url
+      width:    1/2
+    categories:
+      label:    Categories
+      type:     tags
+    text:
+      label:    Text
+      type:     markdown
+    img:
+      label:    Cover
+      type:     selector
+      mode:     single
